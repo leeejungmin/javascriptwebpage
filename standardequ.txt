@@ -1,0 +1,9 @@
+<input type="text" name="id" placeholder="ecrite id"
+required pattern="[a-zA-Z].+[0-9]">
+([a-zA-Z] 이거 두번쓰면 알파벳 두번이나와야한다 .은 모든것 뒤에는 숫자)
+
+
+visited
+hover
+active
+focus
